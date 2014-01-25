@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  remote: http://gems.github.com/
+  specs:
+    flickraw (0.9.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  flickraw
